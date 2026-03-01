@@ -1,0 +1,7 @@
+{
+    "updateVersion": 2,
+    "downloadList": {
+      "客服": "https://your-server.com/downloads/app-a.exe",
+      "ModelB": "https://your-server.com/downloads/app-b.exe"
+    }
+  }
