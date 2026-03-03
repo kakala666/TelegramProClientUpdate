@@ -1,8 +1,9 @@
 {
-    "updateVersion": 0,
+    "updateVersion": 2,
     "downloadList": {
-      "客服": "https://your-server.com/downloads/app-a.exe",
+      "客服": "https://github.com/kakala666/TelegramProClientUpdate/releases/download/%E5%AE%A2%E6%9C%8D/telegram_air.exe",
       "ModelB": "https://your-server.com/downloads/app-b.exe"
     }
 
   }
+
