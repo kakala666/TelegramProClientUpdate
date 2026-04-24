@@ -1,7 +1,7 @@
   {
     "win64": {
       "stable": {
-        "released": 5000000,
+        "released": 7008000,
         "link": "https://github.com/你/employee-updates/releases/download/v{version}/tsetup.{version}.exe"
       }
     },
