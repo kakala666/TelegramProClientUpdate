@@ -1,20 +1,8 @@
-  {
-    "win64": {
-      "stable": {
-        "released": 5008000,
-        "link": "https://github.com/你/employee-updates/releases/download/v{version}/tsetup.{version}.exe"
-      }
-    },
-    "winarm": {
-      "stable": {
-        "released": 5000000,
-        "link": "https://github.com/你/employee-updates/releases/download/v{version}/tsetup-arm64.{version}.exe"
-      }
-    },
-    "linux": {
-      "stable": {
-        "released": 5000000,
-        "link": "https://github.com/你/employee-updates/releases/download/v{version}/tlinuxupd.{version}.tar.xz"
-      }
+{
+  "win64": {
+    "stable": {
+      "released": 6007007,
+      "link": "https://github.com/kakala666/TelegramProClientUpdate/releases/download/v6.7.7/tx64upd6007007"
     }
   }
+}
